@@ -78,13 +78,6 @@ public class BookDetail_jsp extends HttpJspBase {
 
 		printSanitizedName(userReport);
 	}
-
-	public static void loadInfoxxx () {
-
-		String userInfo = request.getParameter("Info"); 
-
-		printSanitizedName(userInfo);
-	}
 	
 	public static void xxxloadInfo () {
 
